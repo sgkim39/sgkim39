@@ -19,7 +19,7 @@
 
   ## Library
   <!--GeoPandas-->
-  <img src="https://img.shields.io/badge/GeoPandas-#139C5A?style=flat-square&logo=GeoPandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=GeoPandas&logoColor=white"/>
 
   <br/>
   
