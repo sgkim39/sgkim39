@@ -22,7 +22,11 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
   <!--GeoPandas-->
   <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=GeoPandas&logoColor=white"/>
+  <br/>
 
+  ## ETC
+  <!--Cesium-->
+  <img src="https://img.shields.io/badge/Cesium-6CADDF?style=flat-square&logo=Cesium&logoColor=white"/>
   <br/>
   
   ## 🤔 Github Stats
