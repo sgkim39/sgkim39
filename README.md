@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **sgkim39/sgkim39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+// Header
+![header](https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=300&section=header&text=It's%a%good%day%to%code)
